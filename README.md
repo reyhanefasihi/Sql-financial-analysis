@@ -19,5 +19,4 @@ This project analyzes financial transactions using SQL. It includes a database s
 2. Run `data.sql` to insert sample data.
 3. Use `queries.sql` to perform analysis.
 
-## 🔗 Author
-Created by an aspiring SQL Data Analyst.
+
